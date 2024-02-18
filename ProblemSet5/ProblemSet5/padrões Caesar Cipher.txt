@@ -1,0 +1,27 @@
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+ACBEDGFIHKJMLONQPSRUTWVYXZ
+acbedgfihkjmlonqpsrutwvyxz
+
+
+
+
+A B
+ C  D
+   E  F
+     G  H
+       I  J
+         K  L
+           M  N
+             O  P
+               Q  R
+                 S  T
+                   U  V
+                     W  X
+                       Y Z
+
+
+
+buildCoder(3)
+A	D
+Y	shift-(26-indice(Y)) = 3-(26-24) = 3

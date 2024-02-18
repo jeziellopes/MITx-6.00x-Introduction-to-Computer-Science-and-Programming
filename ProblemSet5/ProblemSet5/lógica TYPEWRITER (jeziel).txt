@@ -1,0 +1,22 @@
+While I expect 
+new intellectual 
+adventures ahead, nothing will compare to the exhilaration of the world-changing accomplishments that we produced together.
+
+
+
+procurar ' ' em indices maiores que o lineLength
+se encontrar retornar o texto até o espaço
+dar uma quebra de linha e chamar a função novamente
+para o restante do texto que está após o espaço
+
+
+
+While I expect 
+new intellectual 
+adventures ahead, 
+nothing will compare 
+to the exhilaration 
+of the world-changing 
+accomplishments 
+that we produced 
+together.

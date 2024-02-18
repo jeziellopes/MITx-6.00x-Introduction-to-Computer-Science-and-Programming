@@ -1,0 +1,34 @@
+                                                    Topics for Quiz 1
+                                       Material Through Lecture 9 / Problem Set 5
+
+Algorithms
+       Big O notation
+       Exhaustive enumeration
+       Guess and check
+       Successive approximation
+       Divide and conquer algorithms
+       Binary search
+       Merge sort
+       Hashing
+       Orders of growth
+               Exponential
+               Polynomial
+               Linear
+               Log
+       Amortized analysis
+
+Linguistic issues
+       Values, types, expressions variables
+       Builtin types: int, float, string, list, dictionary, tuple
+       Mutability and aliasing
+       Control flow and iteration
+       Functions and methods
+       Input/output
+       Recursion and call stacks
+
+Software engineering
+       Debugging
+       Loop invariants
+       Specifications
+
+Anything needed to successfully complete problem sets

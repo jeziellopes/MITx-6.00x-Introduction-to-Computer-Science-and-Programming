@@ -1,0 +1,75 @@
+                                                     Topics for Quiz 3
+                                               Material Through Lecture 24
+                                      (* indicates material covered since Quiz 2)
+Algorithms
+       Big O notation
+       Exhaustive enumeration
+       Guess and check
+       Successive approximation
+       Divide and conquer algorithms
+       Binary search
+       Merge sort
+       Hashing
+       Orders of growth
+               Exponential
+               Polynomial
+               Linear
+               Log
+       Amortized analysis
+       Depth first search and backtracking *
+       Breadth first search *
+
+Linguistic issues
+       Values, types, expressions, variables
+       Builtin types: int, float, string, list, dictionary, tuple
+       Mutability and aliasing
+       Control flow and iteration
+       Functions and methods
+       Input/output
+       Recursion and call stacks
+       Exceptions
+       Polymorphism
+       Classes, objects, inheritance
+       Pylab
+
+Software engineering
+       Debugging
+       Loop invariants
+       Data abstraction and inheritance
+       Specifications
+
+Simulations and modeling
+       Random walks
+       Monte Carlo methods
+       Graph-based models *
+
+Understanding data
+       Simple probability
+       Standard deviation, coefficient of variation
+       Confidence intervals and levels
+       Linear regression
+       Goodness of a fit
+       Plotting/Pylab
+       Distributions
+       Building computational models *
+       Evaluating fits *
+           Overfitting *
+       Statistical sins *
+           GIGO *
+           Texas sharpshooter *
+           Data enhancement *
+           Non-representative sample *
+           cum hoc ergo propter hoc *
+
+Optimization Problems *
+       Knapsack *
+       Shortest path *
+       Dynamic programming/memoization *
+
+Graph problems *
+       Depth first and breadth first search *
+       Shortest path in graphs *
+       Implicit graph generators *
+       Max clique *
+
+Anything needed to successfully complete problem sets

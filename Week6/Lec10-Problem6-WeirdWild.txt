@@ -1,0 +1,44 @@
+class Weird(object):
+    def __init__(self, x, y): 
+        self.y = y
+        self.x = x
+    def getX(self):
+        return x
+    def getY(self):
+        return y
+
+class Wild(object):
+    def __init__(self, x, y): 
+        self.y = y
+        self.x = x
+    def getX(self):
+        return self.x 
+    def getY(self):
+        return self.y
+
+X = 7
+Y = 8
+------------------------------------
+w1 = Weird(7, 8)
+
+Weird.x = 7
+Weird.y = 8
+
+w1.getX() = erro
+w1.getY() = erro
+------------------------------------
+w2 = Wild(7, 8)
+
+Wild.x = 7
+Wild.y = 8
+
+w2.getX() = 7
+w2.getY() = 8
+------------------------------------
+w2 = Wild(17, 18)
+
+Wild.x = 17
+Wild.y = 18
+
+
+------------------------------------

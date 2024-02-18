@@ -1,0 +1,52 @@
+                                                     Topics for Quiz 2
+                                               Material Through Lecture 17
+                                      (* indicates material covered since Quiz 1)
+Algorithms
+       Big O notation
+       Exhaustive enumeration
+       Guess and check
+       Successive approximation
+       Divide and conquer algorithms
+       Binary search
+       Merge sort *
+       Hashing *
+       Orders of growth
+               Exponential
+               Polynomial
+               Linear
+               Log
+       Amortized analysis
+
+Linguistic issues
+       Values, types, expressions variables
+       Builtin types: int, float, string, list, dictionary, tuple
+       Mutability and aliasing
+       Control flow and iteration
+       Functions and methods
+       Input/output
+       Recursion and call stacks
+       Exceptions *
+       Polymorphism *
+       Classes, objects, inheritance *
+       Pylab *
+
+Software engineering
+       Debugging
+       Loop invariants
+       Data abstraction and inheritance *
+       Specifications
+
+Simulations *
+       Random walks
+       Monte Carlo methods
+
+Understanding data *
+       Simple probability
+       Standard deviation, coefficient of variation
+       Confidence intervals and levels
+       Linear regression
+       Goodness of a fit
+       Plotting/Pylab
+       Distributions
+
+Anything needed to successfully complete problem sets
